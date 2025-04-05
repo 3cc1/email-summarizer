@@ -1,5 +1,6 @@
 Flask==2.2.5
 requests
+openai
 python-dotenv
 transformers
 torch
